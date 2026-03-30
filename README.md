@@ -1,9 +1,9 @@
 **About Me**
 * Computer Science student & Undergraduate Researcher @ University of Georgia
 * Pursuing certificates in Applied Data Science and Artificial Intelligence
+* Interested in machine learning, AI, data analytics, software development, and cybersecurity
 
 **Skills**
-* Interests in machine learning, AI, data analytics, software development, and cybersecurity
 * Proficient in Python, Java, C, SQL
 * Experienced in using Github, Visual Studio Code, Unity
 

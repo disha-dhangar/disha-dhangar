@@ -1,7 +1,7 @@
 **About Me 📚**
 * Computer Science student & Undergraduate Researcher @ University of Georgia
-* Pursuing certificates in Applied Data Science and Artificial Intelligence
-* Interested in machine learning, AI, data analytics, software development, and cybersecurity
+* Pursuing certificates in Artificial Intelligence and Applied Data Science 
+* Interested in AI, machine learning, software development, data analytics, and cybersecurity
 
 **Skills 💻**
 * Proficient in Python, Java, C, SQL
@@ -11,4 +11,4 @@
 * Email: disha.dhangar@gmail.com
 * LinkedIn: https://www.linkedin.com/in/disha-dhangar/
 
-Feel free to reach out to collaborate. I'm always looking forward to developing something new!
+Feel free to reach out to collaborate. Always looking forward to developing something new!

@@ -1,16 +1,13 @@
-## Hi there 👋
+***About Me***
+* Computer Science student & Undergraduate Researcher @ the University of Georgia
+* Pursuing certificates in Applied Data Science and Artificial Intelligence
 
-<!--
-**disha-dhangar/disha-dhangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Skills***
+* Proficient in Python, Java, C, SQL
+* Experienced in using Github, Visual Studio Code, Unity
 
-Here are some ideas to get you started:
+***Contact***
+* Email: disha.dhangar@gmail.com
+* LinkedIn: https://www.linkedin.com/in/disha-dhangar/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to collaborate. I'm always looking forward to developing something new!
